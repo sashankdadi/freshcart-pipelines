@@ -1,0 +1,4 @@
+# NOT needed by CI. Install in Colab / locally when you run the full project.
+mage-ai          # use a Python 3.12 venv (see iris_project/iris_pipeline_colab.ipynb)
+snowflake-connector-python
+ipywidgets
